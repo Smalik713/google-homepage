@@ -1,0 +1,1 @@
+Recreating google's homepage using html and basic css styling. Working with chrome dev tools. 
